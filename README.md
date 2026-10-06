@@ -9,13 +9,10 @@ No me limito a un solo campo: puedo estar programando una aplicación, modifican
 
 ---
 
-<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Lua" /> <img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="Assembly" /> <img src="https://shields.io" alt="C" /> <img src="https://shields.io" alt="C++" />
-
-<img src="https://shields.io" alt="C#" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="Rust" /> <img src="https://shields.io" alt="Termux" /> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt=".NET" />
-
-<img src="https://shields.io" alt="Apache" /> <img src="https://shields.io" alt="FileZilla" /> <img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="XAML" /> <img src="https://shields.io" alt="VS Code" /> <img src="https://shields.io" alt="JavaScript" />
-
-<img src="https://shields.io" alt="Kali Linux" /> <img src="https://shields.io" alt="Arch Linux" />
+![Python](https://shields.io) ![Lua](https://shields.io) ![HTML5](https://shields.io) ![Assembly](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io)
+![C#](https://shields.io) ![CSS3](https://shields.io) ![Rust](https://shields.io) ![Termux](https://shields.io) ![MySQL](https://shields.io) ![.NET](https://shields.io)
+![Apache](https://shields.io) ![FileZilla](https://shields.io) ![Java](https://shields.io) ![XAML](https://shields.io) ![VS Code](https://shields.io) ![JavaScript](https://shields.io)
+![Kali Linux](https://shields.io) ![Arch Linux](https://shields.io)
 
 ---
 
