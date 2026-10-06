@@ -13,16 +13,17 @@ No me limito a un solo campo: puedo estar programando una aplicación, modifican
 **Gaming · Self-hosting · Open Source · Experiments**
 ---
 
-### ⚙️ Actualmente
+### Proyectos en desarrollo
 
-* 🖥️ Desarrollando herramientas y aplicaciones para Windows
-* 🔧 Experimentando con hardware, rendimiento y modificaciones
-* 🐧 Trabajando con Windows y Linux
-* 🎮 Creando proyectos relacionados con gaming y servidores
-* 🚀 Construyendo y mejorando **AOS Corporation**
-* 🧪 Aprendiendo nuevas tecnologías mediante proyectos reales
+*  Desarrollando de herramientas corporativas y aplicaciones para Windows
+*  Experimentando con hardware, rendimiento y modificaciones constantes
+*  Trabajando con Windows, Linux y Termux
+*  Creando proyectos personales de Aplicaciones como TidiFactu y desarrollo de mi Web BlackWeb
+*  Construyendo y mejorando **AOS Corporation**
+*  Aprendiendo nuevas tecnologías constantemente mediante proyectos reales
+---
 
-### 🧩 Algunos proyectos
+###  Algunos proyectos
 
 **AOS Corporation**
 Mi espacio para proyectos, experimentos y herramientas relacionadas con tecnología.
