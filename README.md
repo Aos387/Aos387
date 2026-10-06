@@ -1,4 +1,4 @@
-## HOLA SOY ALEK 👋
+## BOENAS SOY ALEK `AØS`
 
 ✨Sobre mí ‼
 ---
