@@ -53,12 +53,12 @@ No me limito a un solo campo: puedo estar programando una aplicación, modifican
 También me gusta trabajar **fuera del software**:
 
 * PC building & upgrades
-* Reparación de móviles y consolas
+* Reparaciónes en telefonia
 * Modificación de hardware
 * Optimización y overclocking
-* Servidores de videojuegos
-* Sistemas Linux
-* Experimentación con hardware antiguo
+* Servidores LocalHost
+* Sistemas Jail Breikeados
+* Customs Mods
 * Ingeniería inversa y troubleshooting
 
 > **I don't just use technology. I like to break the limits.**
