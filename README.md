@@ -28,11 +28,11 @@ No me limito a un solo campo: puedo estar programando una aplicación, modifican
 **BOOT LOADING**
  * Multiples terminales desbloqueados como PocoPhone F1 con LineageOS 22 Poco X3Pro con EvolutionX. Ademas varios Redmi Notes y ZTEs con Kali Nethunter Root Para experimentos
 
-**AOS Techs**
- * Proyecto orientado a tecnología, reparación y soluciones informáticas.
+**BLENDER 3D**
+ * En 2024 Me especialize en el rediseñado de modelos 3D mediante Blender consiguiendo prometedoras habilidades y creaciones
 
-**AOS Meca**
-Experimentos y proyectos donde hardware, electrónica y creatividad se encuentran.
+**RTX 3050 RISING Flasheo de VBIOS**
+ * Reprogramacion completa usando ingenieria inversa de los codigos Linux de Nvidia con Assembly y C para forzar la Grafica al extremo Rondando un 88% de mejora 
 
 **TidiFactu**
 Concepto de sistema de facturación y gestión orientado a pequeños negocios.
