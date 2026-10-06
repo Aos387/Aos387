@@ -1,40 +1,70 @@
 ## HOLA SOY ALEK 👋
 
-<!!## ✨Sobre mí‼
+✨Sobre mí‼
 ---
-Soy **técnico informático** especializado en múltiples ramas de la informática y la **ciberseguridad**. Me apasiona experimentar en mi propio HomeLab, llevando sistemas al límite y dominando el uso de herramientas tanto comunes como avanzadas. Disfruto creando proyectos personales enfocados en el aprendizaje continuo y el desarrollo técnico.
+# `AØS`
+
+> **Building. Breaking. Learning. Rebuilding.**
+
+💻 **Software · Hardware · Systems · Electronics**
+🛠️ **Repair · Modding · Optimization · Reverse Engineering**
+🎮 **Gaming · Self-hosting · Open Source · Experiments**
+
+Soy **AØS**, un apasionado de la informática y la tecnología. Me gusta aprender **haciendo**, desmontar las cosas para entenderlas y crear mis propias soluciones cuando las que existen no me convencen.
+
+No me limito a un solo campo: puedo estar programando una aplicación, modificando hardware, reparando una consola, montando un PC desde cero, configurando Linux o intentando sacar el último % de rendimiento a un sistema.
+
+### ⚙️ Actualmente
+
+* 🖥️ Desarrollando herramientas y aplicaciones para Windows
+* 🔧 Experimentando con hardware, rendimiento y modificaciones
+* 🐧 Trabajando con Windows y Linux
+* 🎮 Creando proyectos relacionados con gaming y servidores
+* 🚀 Construyendo y mejorando **AOS Corporation**
+* 🧪 Aprendiendo nuevas tecnologías mediante proyectos reales
+
+### 🧩 Algunos proyectos
+
+**AOS Corporation**
+Mi espacio para proyectos, experimentos y herramientas relacionadas con tecnología.
+
+**AOS Techs**
+Proyecto orientado a tecnología, reparación y soluciones informáticas.
+
+**AOS Meca**
+Experimentos y proyectos donde hardware, electrónica y creatividad se encuentran.
+
+**TidiFactu**
+Concepto de sistema de facturación y gestión orientado a pequeños negocios.
+
+**Hardware & Performance Tools**
+Herramientas propias para monitorización, rendimiento y control del hardware.
+
+### 🛠️ Tech Stack
+
+`C#` · `.NET` · `Python` · `HTML` · `CSS` · `JavaScript`
+`Windows` · `Linux` · `Git` · `GitHub` · `VS Code`
+`PC Hardware` · `Networking` · `Virtualization` · `Servers`
+
+### 🔩 Outside the Code
+
+También me gusta trabajar **fuera del software**:
+
+* PC building & upgrades
+* Reparación de móviles y consolas
+* Modificación de hardware
+* Optimización y overclocking
+* Servidores de videojuegos
+* Sistemas Linux
+* Experimentación con hardware antiguo
+* Ingeniería inversa y troubleshooting
+
+> **I don't just use technology. I like to understand it.**
 
 ---
 
-## 🛠️ Tecnologías y habilidades:
+### `AØS // 2026`
 
-* **Sistemas y Redes:** Creación de servidores LocalHost, administración de entornos HomeLab.
-* **Ciberseguridad:** Auditorías de seguridad, control absoluto de herramientas técnicas.
-* **Desarrollo:** Creación de códigos complejos, automatización, desarrollo de apps y diseño web.
-* **Diseño 3D:** Edición y renderizado avanzado utilizando Blender.
-
----
-
-## 💻 Proyectos destacados:
-
-### 🌐 Black WiFI
-**Mi Web Personal** enfocada en albergar mis herramientas de auditoría, proyectos de ciberseguridad e investigación técnica.
-
-### 📱 tDiFactu
-**Aplicación móvil** orientada al desarrollo técnico y optimización de herramientas prácticas del día a día.
-
----
-
-## 📈 Conectemos:
-
-* 🔭 **Actualmente trabajando en:** _[Añade tu proyecto actual aquí]_
-* 🌱 **Aprendiendo de forma continua:** _[Añade tecnologías que estés estudiando]_
-* 💬 **Pregúntame sobre:** Ciberseguridad, HomeLabs, Ingeniería Inversa o Blender.
-Usa el código con precaución.
-¿Qué mejoras le hicimos?
-1. Cortamos la paja: Quitamos frases repetitivas (como "a lo largo de los años") y fuimos al grano con tus puntos fuertes.
-2. Jerarquía visual: Usamos separadores (---), emojis funcionales de anclaje visual y negritas para que cualquiera que entre a tu perfil sepa a qué te dedicas en menos de 3 segundos.
-3. Sección de Proyectos Limpia: Separamos tu web y tu app para que luzcan como proyectos profesionales e independientes en lugar de estar amontonados en un solo párrafo.
-Las respuestas de la IA pueden contener errores. Más información
+**Keep building. Keep breaking. Keep learning.**
 
 
