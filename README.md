@@ -9,34 +9,23 @@ No me limito a un solo campo: puedo estar programando una aplicación, modifican
 
 ---
 
-<!-- Fila 1 -->
-![Python](https://shields.io)
-![Lua](https://shields.io)
-![HTML5](https://shields.io)
-![Assembly](https://shields.io)
-![C](https://shields.io)
-![C++](https://shields.io)
+<p>
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Lua" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="Assembly" />
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="C++" />
+</p>
 
-<!-- Fila 2 -->
-![C#](https://shields.io)
-![CSS3](https://shields.io)
-![Rust](https://shields.io)
-![Termux](https://shields.io)
-![MySQL](https://shields.io)
-![.NET](https://shields.io)
-
-<!-- Fila 3 -->
-![Apache](https://shields.io)
-![FileZilla](https://shields.io)
-![Java](https://shields.io)
-![XAML](https://shields.io)
-![VS Code](https://shields.io)
-![JavaScript](https://shields.io)
-
-<!-- Fila 4 -->
-![Kali Linux](https://shields.io)
-![Arch Linux](https://shields.io)
-
+<p>
+  <img src="https://shields.io" alt="C#" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="Rust" />
+  <img src="https://shields.io" alt="Termux" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt=".NET" />
+</p>
 
 ---
 
