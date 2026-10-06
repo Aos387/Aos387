@@ -1,16 +1,40 @@
 ## HOLA SOY ALEK 👋
 
 <!!## ✨Sobre mí‼
+---
+Soy **técnico informático** especializado en múltiples ramas de la informática y la **ciberseguridad**. Me apasiona experimentar en mi propio HomeLab, llevando sistemas al límite y dominando el uso de herramientas tanto comunes como avanzadas. Disfruto creando proyectos personales enfocados en el aprendizaje continuo y el desarrollo técnico.
 
-HOLAM soy tecnico informatico y a lo largo de los años me eh especializado en multiples ramas de la informatica y la tecnologia empezando con la ciberseguridad en 2021 centrandome en el absoluto dominio y uso de todas las herramientas aprovechando tambien multiples herarramientas y codigos creados por mi mismo y algunas de muy nicho o dificil accesos, continue con la creacion de servidores LocalHost en mi propio HomeLAb, En esa epoca me centre en el aprendizaje de multiples lenguajes y la creacion de codigos unicos y complejos, para luego pasarme a la edicion y renderizado 3D con Blender, despues lo deje todo para centrarme mas en el mundo tecnico y el aprendizaje de ingenieria inversa para llevar al limite todo movil y ordenador, Actualmente disfruto de la creacion de  mis proyectos persoanales mi Web {Black WEB} y mis Apps {TidiFactu}
-soy alguien con curiosidad por todo lo relacionado con la tecnología el aprendizaje y el desarrollo
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y habilidades:
+
+* **Sistemas y Redes:** Creación de servidores LocalHost, administración de entornos HomeLab.
+* **Ciberseguridad:** Auditorías de seguridad, control absoluto de herramientas técnicas.
+* **Desarrollo:** Creación de códigos complejos, automatización, desarrollo de apps y diseño web.
+* **Diseño 3D:** Edición y renderizado avanzado utilizando Blender.
+
+---
+
+## 💻 Proyectos destacados:
+
+### 🌐 Black WiFI
+**Mi Web Personal** enfocada en albergar mis herramientas de auditoría, proyectos de ciberseguridad e investigación técnica.
+
+### 📱 tDiFactu
+**Aplicación móvil** orientada al desarrollo técnico y optimización de herramientas prácticas del día a día.
+
+---
+
+## 📈 Conectemos:
+
+* 🔭 **Actualmente trabajando en:** _[Añade tu proyecto actual aquí]_
+* 🌱 **Aprendiendo de forma continua:** _[Añade tecnologías que estés estudiando]_
+* 💬 **Pregúntame sobre:** Ciberseguridad, HomeLabs, Ingeniería Inversa o Blender.
+Usa el código con precaución.
+¿Qué mejoras le hicimos?
+1. Cortamos la paja: Quitamos frases repetitivas (como "a lo largo de los años") y fuimos al grano con tus puntos fuertes.
+2. Jerarquía visual: Usamos separadores (---), emojis funcionales de anclaje visual y negritas para que cualquiera que entre a tu perfil sepa a qué te dedicas en menos de 3 segundos.
+3. Sección de Proyectos Limpia: Separamos tu web y tu app para que luzcan como proyectos profesionales e independientes en lugar de estar amontonados en un solo párrafo.
+Las respuestas de la IA pueden contener errores. Más información
+
+
