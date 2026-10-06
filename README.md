@@ -9,32 +9,21 @@ No me limito a un solo campo: puedo estar programando una aplicación, modifican
 
 ---
 
-<p>
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Lua" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="Assembly" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-</p>
+## 👅 Lenguajes
 
-<p>
-  <img src="https://shields.io" alt="C#" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="Rust" />
-  <img src="https://shields.io" alt="Termux" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt=".NET" />
-</p>
+![Python](https://shields.io) ![Lua](https://shields.io) ![HTML5](https://shields.io) ![Assembly](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io)
+![C#](https://shields.io) ![CSS3](https://shields.io) ![Rust](https://shields.io) ![Termux](https://shields.io) ![MySQL](https://shields.io) ![.NET](https://shields.io)
+![Apache](https://shields.io) ![FileZilla](https://shields.io) ![Java](https://shields.io) ![XAML](https://shields.io) ![VS Code](https://shields.io) ![JavaScript](https://shields.io)
+![Kali Linux](https://shields.io) ![Arch Linux](https://shields.io)
+
 
 ---
 
-### Proyectos en desarrollo
+### Working to...
 
-*  Desarrollando de herramientas corporativas y aplicaciones para Windows
+*  TidiFactu & BlackWeb
 *  Experimentando con hardware, rendimiento y modificaciones constantes
 *  Trabajando con Windows, Linux y Termux
-*  Creando proyectos personales de **Aplicaciones** como **TidiFactu** y desarrollo de mi Web BlackWeb
 *  Construyendo y mejorando **AOS Corporation**
 *  Aprendiendo nuevas tecnologías constantemente mediante proyectos reales
 ---
@@ -48,20 +37,18 @@ No me limito a un solo campo: puedo estar programando una aplicación, modifican
  * En 2024 Me especialize en el rediseñado de modelos 3D mediante Blender consiguiendo prometedoras habilidades y creaciones
 
 **RTX 3050 RISING Flasheo de VBIOS**
- * Reprogramacion completa usando ingenieria inversa de los codigos Linux de Nvidia con Assembly y C para forzar la Grafica al extremo Rondando un 88% de mejora 
+ * Reprogramacion completa usando ingenieria inversa de los codigos Linux de Nvidia con Assembly y C para forzar la Grafica al extremo Rondando un 88% de mejora
 
-**TidiFactu**
-Concepto de sistema de facturación y gestión orientado a pequeños negocios.
-
-**Hardware & Performance Tools**
-Herramientas propias para monitorización, rendimiento y control del hardware.
+**Exploit Logic Abuse**
+ * BugBounty a aplicaciones como YT, SoundCloud, Spotify, GTA V, Discord, Google, y Multiples Webs sin reporte "Solo es Hacking etico"
+---
 
 **Software · Hardware · Systems · Electronics**
 **Repair · Modding · Optimization · Reverse Engineering**
 **Gaming · Self-hosting · Open Source · Experiments**
 
 
-### 🔩 Outside the Code
+### Outside the Code
 
 También me gusta trabajar **fuera del software**:
 
