@@ -23,13 +23,13 @@ No me limito a un solo campo: puedo estar programando una aplicación, modifican
 *  Aprendiendo nuevas tecnologías constantemente mediante proyectos reales
 ---
 
-###  Algunos proyectos
+###  HITOS DESTACADOS
 
 **AOS Corporation**
-Mi espacio para proyectos, experimentos y herramientas relacionadas con tecnología.
+ * Mi espacio para proyectos, experimentos y herramientas relacionadas con tecnología.
 
 **AOS Techs**
-Proyecto orientado a tecnología, reparación y soluciones informáticas.
+ * Proyecto orientado a tecnología, reparación y soluciones informáticas.
 
 **AOS Meca**
 Experimentos y proyectos donde hardware, electrónica y creatividad se encuentran.
