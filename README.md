@@ -3,7 +3,7 @@
 ✨Sobre mí ‼
 ---
 # `By AØS`
-Soy Alek **AØS**, un genio en la Ciberseguridad la informática y la tecnología. Me gusta aprender **haciendo**, destripar las cosas para entenderlas y crear mis propias metodos cuando los que existen no me gustan.
+Soy Alek **AØS**, un genio en la Ciberseguridad la informática y la tecnología. Me gusta aprender **haciendo**, destripar las cosas para entenderlas y crear mis propios metodos cuando los que existen no me gustan.
 No me limito a un solo campo: puedo estar programando una aplicación, modificando hardware, creando un HomeLab, montando un PC desde cero, configurando Linux en un movil o intentando sacar el último % de rendimiento a un sistema.
 > **Building. Breaking. Learning. Rebuilding. Cybersegurity. ReverseEnginer.**
 
