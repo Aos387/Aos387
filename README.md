@@ -1,4 +1,4 @@
-## B03NAS👋 SOY ALEK `Aos`                                                                                                                                                                                                         `AØS`
+## B03NAS👋 SOY ALEK                                                                                                                                                                                                         `Aos`
 
 ✨Sobre mí ‼
 ---
