@@ -40,7 +40,7 @@ No me limito a un solo campo: puedo estar programando una aplicación, modifican
  * Reprogramacion completa usando ingenieria inversa de los codigos Linux de Nvidia con Assembly y C para forzar la Grafica al extremo Rondando un 88% de mejora
 
 **Exploit Logic Abuse**
- * BugBounty a aplicaciones como YT, SoundCloud, Spotify, GTA V, Discord, Google, y Multiples Webs sin reporte "Solo es Hacking etico"
+ * Bug Bounty a aplicaciones como YT, SoundCloud, Spotify, GTA V, Discord, Google, y Multiples Webs sin reporte "Solo es Hacking etico"
 ---
 
 **Software · Hardware · Systems · Electronics**
