@@ -1,18 +1,17 @@
 ## HOLA SOY ALEK 👋
 
-✨Sobre mí‼
+✨Sobre mí ‼
 ---
 # `AØS`
-
-> **Building. Breaking. Learning. Rebuilding.**
-
-💻 **Software · Hardware · Systems · Electronics**
-🛠️ **Repair · Modding · Optimization · Reverse Engineering**
-🎮 **Gaming · Self-hosting · Open Source · Experiments**
-
 Soy **AØS**, un apasionado de la informática y la tecnología. Me gusta aprender **haciendo**, desmontar las cosas para entenderlas y crear mis propias soluciones cuando las que existen no me convencen.
-
 No me limito a un solo campo: puedo estar programando una aplicación, modificando hardware, reparando una consola, montando un PC desde cero, configurando Linux o intentando sacar el último % de rendimiento a un sistema.
+> **Building. Breaking. Learning. Rebuilding. Cybersegurity. ReverseEnginer.**
+
+---
+**Software · Hardware · Systems · Electronics**
+**Repair · Modding · Optimization · Reverse Engineering**
+**Gaming · Self-hosting · Open Source · Experiments**
+---
 
 ### ⚙️ Actualmente
 
