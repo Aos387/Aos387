@@ -1,10 +1,9 @@
 ## HOLA SOY ALEK 👋
 
 <!--## ✨Sobre mí‼
+
 HOLAM soy tecnico informatico y a lo largo de los años me eh especializado en multiples ramas de la informatica y la tecnologia empezando con la ciberseguridad en 2021 centrandome en el absoluto dominio y uso de todas las herramientas aprovechando tambien multiples herarramientas y codigos creados por mi mismo y algunas de muy nicho o dificil accesos, continue con la creacion de servidores LocalHost en mi propio HomeLAb, En esa epoca me centre en el aprendizaje de multiples lenguajes y la creacion de codigos unicos y complejos, para luego pasarme a la edicion y renderizado 3D con Blender, despues lo deje todo para centrarme mas en el mundo tecnico y el aprendizaje de ingenieria inversa para llevar al limite todo movil y ordenador, Actualmente disfruto de la creacion de  mis proyectos persoanales mi Web {Black WEB} y mis Apps {TidiFactu}
 soy alguien con curiosidad por todo lo relacionado con la tecnología el aprendizaje y el desarrollo
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
