@@ -45,7 +45,7 @@ No me limito a un solo campo: puedo estar programando una aplicación, modifican
 
 **Software · Hardware · Systems · Electronics**
 **Repair · Modding · Optimization · Bug Bounty · Day Zero · Reverse Engineering**
-**Gaming · Self-hosting · Open Source · Experiments**
+**· Gaming · Self-hosting · Open Source · Experiments**
 
 
 ### Outside the Code
