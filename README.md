@@ -8,9 +8,9 @@ No me limito a un solo campo: puedo estar programando una aplicación, modifican
 > **Building. Breaking. Learning. Rebuilding. Cybersegurity. ReverseEnginer.**
 
 ---
-**Software · Hardware · Systems · Electronics**
-**Repair · Modding · Optimization · Reverse Engineering**
-**Gaming · Self-hosting · Open Source · Experiments**
+![Python](https://shields.io) ![Lua](https://shields.io) ![HTML5](https://shields.io) ![Assembly](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io)
+![C#](https://shields.io) ![CSS3](https://shields.io) ![Rust](https://shields.io) ![Termux](https://shields.io) ![MySQL](https://shields.io) ![.NET](https://shields.io)
+![Apache](https://shields.io) ![FileZilla](https://shields.io) ![Java](https://shields.io) ![XAML](https://shields.io) ![VS Code](https://shields.io) ![JavaScript](https://shields.io)
 ---
 
 ### Proyectos en desarrollo
@@ -40,11 +40,10 @@ Concepto de sistema de facturación y gestión orientado a pequeños negocios.
 **Hardware & Performance Tools**
 Herramientas propias para monitorización, rendimiento y control del hardware.
 
-### 🛠️ Tech Stack
+**Software · Hardware · Systems · Electronics**
+**Repair · Modding · Optimization · Reverse Engineering**
+**Gaming · Self-hosting · Open Source · Experiments**
 
-`C#` · `.NET` · `Python` · `HTML` · `CSS` · `JavaScript`
-`Windows` · `Linux` · `Git` · `GitHub` · `VS Code`
-`PC Hardware` · `Networking` · `Virtualization` · `Servers`
 
 ### 🔩 Outside the Code
 
