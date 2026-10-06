@@ -61,7 +61,7 @@ También me gusta trabajar **fuera del software**:
 * Experimentación con hardware antiguo
 * Ingeniería inversa y troubleshooting
 
-> **I don't just use technology. I like to understand it.**
+> **I don't just use technology. I like to break the limits.**
 
 ---
 
