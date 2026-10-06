@@ -18,15 +18,15 @@ No me limito a un solo campo: puedo estar programando una aplicación, modifican
 *  Desarrollando de herramientas corporativas y aplicaciones para Windows
 *  Experimentando con hardware, rendimiento y modificaciones constantes
 *  Trabajando con Windows, Linux y Termux
-*  Creando proyectos personales de Aplicaciones como TidiFactu y desarrollo de mi Web BlackWeb
+*  Creando proyectos personales de **Aplicaciones** como **TidiFactu** y desarrollo de mi Web BlackWeb
 *  Construyendo y mejorando **AOS Corporation**
 *  Aprendiendo nuevas tecnologías constantemente mediante proyectos reales
 ---
 
 ###  HITOS DESTACADOS
 
-**AOS Corporation**
- * Mi espacio para proyectos, experimentos y herramientas relacionadas con tecnología.
+**BOOT LOADING**
+ * Multiples terminales desbloqueados como PocoPhone F1 con LineageOS 22 Poco X3Pro con EvolutionX. Ademas varios Redmi Notes y ZTEs con Kali Nethunter Root Para experimentos
 
 **AOS Techs**
  * Proyecto orientado a tecnología, reparación y soluciones informáticas.
