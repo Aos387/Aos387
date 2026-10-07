@@ -15,7 +15,7 @@ public class AlekAos {
     string role = "Cybersegurity--App/Web Developer--technical Harware & Architecture Red";
     string location = "Spain SVQ/BADAJOZ";
 
-    vector<string> interests = {
+    vector<string> interests()  {
         "Cybersegurity RedTeam & BlueTeam",
         "Harware and Software Custom & HomeLab/LocalHost Servers",
         "Render 3D For Blender",
@@ -26,11 +26,6 @@ public class AlekAos {
         "Manifold Certifics"
     };
 
-    vector<string> projects() {
-        "BlackWeb",
-        "TidiFactu",
-        "AosCorp"
-    };
 ```
 >  **No Limits:** Me da igual si es frontend, backend, móvil, web o Harware. Si implica resolver código o romper sus limites, **Me to dare**.
 
