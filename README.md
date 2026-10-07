@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Si+Tiene+Codigo+%2C+lo+Reprogramo+;Desde+Apps+Multiplataforma+hasta+Webs;Dise%C3%B1o3D+en+Blender+%2B+Scrips+;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </div>
 
----
 ## ✨Sobre mí ‼
 ```java
 public class AlekAos {
