@@ -38,6 +38,35 @@ No me limito a un solo campo: puedo estar programando una aplicación, modifican
 
 
 ---
+class AOS {
+
+public:
+
+    string name = "RELLENAR";
+    string role = "RELLENAR";
+    string location = "RELLENAR";
+
+    vector<string> interests = {
+        "RELLENAR",
+        "RELLENAR",
+        "RELLENAR",
+        "RELLENAR"
+    };
+
+    vector<string> currently_learning = {
+        "RELLENAR",
+        "RELLENAR"
+    };
+
+    vector<string> projects = {
+        "RELLENAR",
+        "RELLENAR",
+        "RELLENAR"
+    };
+
+};
+
+----
 
 ### Working to...
 
