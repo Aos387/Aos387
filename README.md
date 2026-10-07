@@ -23,7 +23,7 @@ public class AlekAos {
         "Manifold Certifics"
     };
 
-    vector<string>() projects = {
+    vector<string> projects() = {
         "BlackWeb",
         "TidiFactu",
         "AosCorp"
