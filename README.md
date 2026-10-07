@@ -24,6 +24,7 @@ public class AlekAos {
     vector<string> currently_learning = {
         "IFC Profesional "
         "Manifold Certifics"
+        "DevOps"
     };
 
 ```
