@@ -1,10 +1,8 @@
 ## B03NAS👋 SOY ALEK                                                                                                                                                                                                         `Aos`
 ---
 ## ✨Sobre mí ‼
-class ByAOS {
-
-public:
-
+```java
+public class AlekAos {
     string name = "Alek";
     string role = "Cybersegurity--App/Web Developer--technical Harware";
     string location = "Spain SVQ/BADAJOZ";
