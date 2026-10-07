@@ -121,7 +121,7 @@ También me gusta trabajar **fuera del software**:
 
 ---
 
-### `AØS // 2026`
+### `AØS // 2022-2026`
 
 **Keep building. Keep breaking. Keep learning.**
 
