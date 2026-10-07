@@ -1,7 +1,7 @@
 ## B03NAS👋 SOY ALEK `Aos`
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,14&height=200&section=header&text=Alek%20Aos&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Multiplataforma%20y%20Web%20%7C%20Tryhard%20Coder&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=200&section=header&text=Alek%20Aos&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Multiplataforma%20y%20Web%20%7C%20Tryhard%20Coder&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
