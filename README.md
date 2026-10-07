@@ -33,7 +33,6 @@ public class AlekAos {
     };
 ```
 >  **No Limits:** Me da igual si es frontend, backend, móvil, web o Harware. Si implica resolver código o romper sus limites, **Me to dare**.
----
 
 ## 👅 Lenguajes
 
