@@ -27,8 +27,6 @@ public:
         "AosCorp"
     };
 
-};
-
 ---
 
 ## 👅 Lenguajes
