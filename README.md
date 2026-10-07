@@ -1,4 +1,9 @@
-## B03NAS👋 SOY ALEK                                                                                                                                                                                                         `Aos`
+## B03NAS👋 SOY ALEK `Aos`
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,14&height=200&section=header&text=Eva%20Gallardo&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desarrolladora%20Multiplataforma%20%7C%20Creative%20Coder&descAlignY=55&descSize=18" width="100%"/>
+</div>
+
 ---
 ## ✨Sobre mí ‼
 ```java
@@ -9,14 +14,14 @@ public class AlekAos {
 
     vector<string> interests = {
         "Cybersegurity RedTeam & BlueTeam",
-        "Harware and Software Custom",
+        "Harware and Software Custom & HomeLab/LocalHost Servers",
         "Render 3D For Blender",
-        "LocalHost Servers"
     };
 
     vector<string> currently_learning = {
         "IFC Profesional ",
         "Manifold Certifics"
+        " Void Escucho activamente y aporto visiones alternativas Para enriquezer los proyectos
     };
 
     vector<string> projects = {
