@@ -1,6 +1,8 @@
 ## B03NAS👋 SOY ALEK `Aos`
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,14&height=200&section=header&text=Alek%20Aos&fontSize=60&fontColor=#FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Multiplataforma%20y%20Web%20%7C%20Tryhard%20Coder&descAlignY=55&descSize=18" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Si+Tiene+Codigo+%2C+lo+Reprogramo+;Desde+Apps+Multiplataforma+hasta+Webs;Dise%C3%B1o3D+en+Blender+%2B+Scrips+;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
