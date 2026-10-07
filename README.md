@@ -4,7 +4,7 @@
 ```java
 public class AlekAos {
     string name = "Alek";
-    string role = "Cybersegurity--App/Web Developer--technical Harware";
+    string role = "Cybersegurity--App/Web Developer--technical Harware & Architecture Red";
     string location = "Spain SVQ/BADAJOZ";
 
     vector<string> interests = {
