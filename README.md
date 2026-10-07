@@ -4,6 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,14&height=200&section=header&text=Alek%20Aos&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Multiplataforma%20y%20Web%20%7C%20Tryhard%20Coder&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Si+se+puede+programar%2C+lo+programo+%F0%9F%92%BB;Desde+apps+m%C3%B3viles+hasta+Webs;Dise%C3%B1o+en+Figma+%2B+C%C3%B3digo+%3D+%E2%9C%A8;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+</div>
+
 ---
 ## ✨Sobre mí ‼
 ```java
