@@ -82,7 +82,7 @@ public class AlekAos {
 *  Experimentando con hardware, rendimiento y modificaciones constantes
 *  Trabajando con Windows, Linux y Termux
 *  Construyendo y mejorando **AOS Corporation**
-*  Aprendiendo nuevas tecnologías constantemente mediante proyectos reales
+*  Aprendiendo nuevas tecnologías constantemente mediante proyectos reales //Desde 2022 Como script kiddie//
 ---
 
 ###  HITOS DESTACADOS
