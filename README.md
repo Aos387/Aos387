@@ -8,15 +8,15 @@ public class AlekAos {
     string location = "Spain SVQ/BADAJOZ";
 
     vector<string> interests = {
-        "Cybersegurity",
+        "Cybersegurity RedTeam & BlueTeam",
         "Harware and Software Custom",
-        "Blender Render 3D",
+        "Render 3D For Blender",
         "LocalHost Servers"
     };
 
     vector<string> currently_learning = {
-        "RELLENAR",
-        "RELLENAR"
+        "IFC Profesional ",
+        "Manifold Certifics"
     };
 
     vector<string> projects = {
