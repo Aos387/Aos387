@@ -19,9 +19,8 @@ public class AlekAos {
     };
 
     vector<string> currently_learning = {
-        "IFC Profesional ",
+        "IFC Profesional "
         "Manifold Certifics"
-        " Void Escucho activamente y aporto visiones alternativas Para enriquezer los proyectos
     };
 
     vector<string> projects = {
