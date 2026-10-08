@@ -17,7 +17,7 @@ public class AlekAos {
 
     vector<string> interests()  {
         "Cybersegurity RedTeam & BlueTeam",
-        "Harware and Software Custom & HomeLab/LocalHost Servers",
+        "Hardware and Software Custom & HomeLab/LocalHost Servers",
         "Render 3D For Blender",
     };
 
